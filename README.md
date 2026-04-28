@@ -1,4 +1,8 @@
-<h1 align="center">Olá, eu sou Jehniffer Tracz</h1>
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Olá,%20eu%20sou%20Jehniffer%20Tracz%20👋&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Desenvolvedora%20Python%20%7C%20Cruz%20Machado-PR&descAlignY=58&descAlign=50)
+
+</div>
 
 ###
 
