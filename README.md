@@ -37,7 +37,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/jehniffertracz/jehniffertracz/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/jehniffertracz/jehniffertracz/output/github-contribution-grid-snake.svg" />
 
 ###
 
