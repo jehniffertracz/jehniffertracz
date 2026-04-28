@@ -6,12 +6,6 @@
 
 Automação · Integração Salesforce · Desenvolvimento Python
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![Salesforce](https://img.shields.io/badge/Salesforce-0d1117?style=for-the-badge&logo=salesforce&logoColor=00A1E0)
-![Apex](https://img.shields.io/badge/Apex-0d1117?style=for-the-badge&logo=salesforce&logoColor=bc8cff)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=f0883e)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791)
-
 </div>
 
 ###
