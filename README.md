@@ -37,13 +37,13 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/jehniffertracz/jehniffertracz/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/jehniffertracz/jehniffertracz/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jehniffertracz&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=flag-india&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jehniffertracz&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=flag-india&hide_border=true&order=2" height="1" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jehniffertracz&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=flag-india&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -59,3 +59,4 @@
 </div>
 
 ###
+
