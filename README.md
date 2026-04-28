@@ -1,13 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Jehniffer%20Tracz&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Desenvolvedora%20%7C%20Analista%20de%20Dados%20%7C%20Salesforce&descAlignY=60&descAlign=50&descSize=17)
+![header](https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24&text=Jehniffer%20Tracz&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedora%20%7C%20Dados%20%7C%20Salesforce&descAlignY=60&descSize=18)
 
 <div align="center">
 
-### Transformando dados em decisões reais
+<h3>Transformando dados em decisões reais</h3>
 
-Automação · Integração Salesforce · Desenvolvimento Python
+<p>
+🚀 Automação &nbsp;•&nbsp; 🔗 Integração Salesforce &nbsp;•&nbsp; 🐍 Desenvolvimento Python
+</p>
 
 </div>
-
 ###
 
 <div align="center">
