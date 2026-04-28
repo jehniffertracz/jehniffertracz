@@ -1,14 +1,18 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Jehniffer%20Tracz&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=turning%20raw%20data%20into%20real%20decisions%20%7C%20Python%20%C2%B7%20Salesforce%20%C2%B7%20Apex&descAlignY=58&descAlign=50&descSize=16)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Jehniffer%20Tracz&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Desenvolvedora%20%7C%20Analista%20de%20Dados%20%7C%20Salesforce&descAlignY=60&descAlign=50&descSize=17)
 
-```python
-dev = {
-    "name":   "Jehniffer Tracz",
-    "stack":  ["Python", "Salesforce", "Apex", "MySQL", "PostgreSQL"],
-    "focus":  "data · automation · crm",
-    "status": "always learning 🚀"
-}
-print("let's build something great")
-```
+<div align="center">
+
+### Transformando dados em decisões reais
+
+Automação · Integração Salesforce · Desenvolvimento Python
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![Salesforce](https://img.shields.io/badge/Salesforce-0d1117?style=for-the-badge&logo=salesforce&logoColor=00A1E0)
+![Apex](https://img.shields.io/badge/Apex-0d1117?style=for-the-badge&logo=salesforce&logoColor=bc8cff)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=f0883e)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791)
+
+</div>
 
 ###
 
