@@ -37,8 +37,8 @@
   <a href="https://www.instagram.com/jehniffertracz/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jehniffertracz@icloud.com&su=Contato%20via%20GitHub&body=Olá%20Jehniffer,%20vim%20pelo%20seu%20perfil!" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35"/>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jehniffertracz@icloud.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="28"/>
 </a>
 </div>
 
