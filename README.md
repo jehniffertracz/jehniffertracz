@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24&text=Jehniffer%20Tracz&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedora%20%7C%20Dados%20%7C%20Salesforce&descAlignY=60&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24&text=Jehniffer%20Tracz&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Construindo%20soluções%20com%20Dados%20•%20Python%20•%20Salesforce&descAlignY=60&descSize=18)
 
 <div align="center">
 
@@ -9,8 +9,6 @@
 </p>
 
 </div>
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
   <img width="14" />
