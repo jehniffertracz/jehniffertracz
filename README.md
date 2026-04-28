@@ -1,8 +1,14 @@
-<div align="center">
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Jehniffer%20Tracz&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=turning%20raw%20data%20into%20real%20decisions%20%7C%20Python%20%C2%B7%20Salesforce%20%C2%B7%20Apex&descAlignY=58&descAlign=50&descSize=16)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Olá,%20eu%20sou%20Jehniffer%20Tracz%20👋&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Desenvolvedora%20Python%20%7C%20Cruz%20Machado-PR&descAlignY=58&descAlign=50)
-
-</div>
+```python
+dev = {
+    "name":   "Jehniffer Tracz",
+    "stack":  ["Python", "Salesforce", "Apex", "MySQL", "PostgreSQL"],
+    "focus":  "data · automation · crm",
+    "status": "always learning 🚀"
+}
+print("let's build something great")
+```
 
 ###
 
