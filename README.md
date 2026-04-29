@@ -1,14 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24&text=Jehniffer%20Tracz&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Construindo%20soluções%20com%20Dados%20•%20Python%20•%20Salesforce&descAlignY=60&descSize=18)
-
-<div align="center">
-
-<h3>Transformando dados em decisões reais</h3>
-
-<p>
-🚀 Automação &nbsp;•&nbsp; 🔗 Integração Salesforce &nbsp;•&nbsp; 🐍 Desenvolvimento Python
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&pause=1500&color=C800FF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+sou+a+Jehniffer+Tracz;&repeat=false" />
 </p>
-
-</div>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
   <img width="14" />
