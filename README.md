@@ -14,9 +14,5 @@
 ![](https://streak-stats.demolab.com/?user=jehniffertracz&theme=buefy&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=jehniffertracz&theme=buefy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=jehniffertracz&icon=8&color=12)](https://visitcount.itsvg.in)
-
-
 ![snake gif](https://raw.githubusercontent.com/jehniffertracz/jehniffertracz/output/github-contribution-grid-snake.svg?palette=github-dark)
 
