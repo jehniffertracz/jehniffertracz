@@ -1,58 +1,22 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&pause=1500&color=C800FF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+sou+a+Jehniffer+Tracz;&repeat=false" />
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&color=8A2BE2&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Jehniffer!;" alt="Typing Animation">
 </p>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" alt="pandas logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="35" alt="fastapi logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="35" alt="salesforce logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="35" alt="mysql logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
-</div>
 
-###
+  
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/jehniffertracz/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/users/jehniffertracz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/jehniffertracz/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jehniffertracz@icloud.com&su=Contato%20via%20GitHub" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
-</a>
-</div>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jehniffertracz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jehniffertracz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jehniffertracz@icloud.com) 
 
-###
+# 🧠 My Stacks:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-<img src="https://raw.githubusercontent.com/jehniffertracz/jehniffertracz/output/github-contribution-grid-snake.svg" />
+![](https://github-readme-stats.shion.dev/api?username=jehniffertracz&theme=buefy&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=jehniffertracz&theme=buefy&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=jehniffertracz&theme=buefy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-###
+---
+[![](https://komarev.com/ghpvc/?username=jehniffertracz&icon=8&color=12)](https://visitcount.itsvg.in)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jehniffertracz&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=flag-india&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jehniffertracz&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=flag-india&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
 
-###
+![snake gif](https://raw.githubusercontent.com/jehniffertracz/jehniffertracz/output/github-contribution-grid-snake.svg?palette=github-dark)
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=60&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=random"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jehniffertracz.jehniffertracz&left_color=burlywood&right_color=cadetblue"  />
-</div>
