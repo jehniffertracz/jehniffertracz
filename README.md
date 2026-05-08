@@ -1,7 +1,6 @@
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&color=E0FFFF&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+a+Jehniffer!;" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=500&color=7B68EE&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+a+Jehniffer!;" alt="Typing Animation">
 </p>
-
   
 
 ## 🌐 Socials:
