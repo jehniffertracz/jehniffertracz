@@ -19,10 +19,11 @@
 
 ## ☁️ Salesforce Development
 
-![Salesforce](https://img.shields.io/badge/Salesforce%20Platform-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Apex](https://img.shields.io/badge/Apex-FF6F00?style=for-the-badge&logo=salesforce&logoColor=white)
-![LWC](https://img.shields.io/badge/LWC-7B42BC?style=for-the-badge&logo=salesforce&logoColor=white)
-![SOQL](https://img.shields.io/badge/SOQL-2E8B57?style=for-the-badge&logo=salesforce&logoColor=white)
+![SALESFORCE PLATFORM](https://img.shields.io/badge/SALESFORCE%20PLATFORM-1798c1?style=for-the-badge&logo=icloud&logoColor=white)
+![LWC](https://img.shields.io/badge/LWC-E8A838?style=for-the-badge&logo=icloud&logoColor=white)
+![APEX](https://img.shields.io/badge/APEX-2ECC71?style=for-the-badge&logo=icloud&logoColor=white)
+![SOQL](https://img.shields.io/badge/SOQL-9B59B6?style=for-the-badge&logo=icloud&logoColor=white)
+
 
 ## ⚙️ Tools
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
